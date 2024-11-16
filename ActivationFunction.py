@@ -59,4 +59,6 @@ plt.title("Softmax (1D Example)")
 plt.grid(True)
 
 plt.tight_layout()
+plt.savefig("Output.jpg")
 plt.show()
+
